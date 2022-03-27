@@ -4,16 +4,40 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Android Studio/Tqapp/app/src/main/res/drawable/background.xml" value="0.1" />
+        <entry key="..\:/Android Studio/Tqapp/app/src/main/res/drawable/done_design.xml" value="0.121" />
+        <entry key="..\:/Android Studio/Tqapp/app/src/main/res/drawable/done_ripple.xml" value="0.121" />
+        <entry key="..\:/Android Studio/Tqapp/app/src/main/res/drawable/google_design.xml" value="0.121" />
+        <entry key="..\:/Android Studio/Tqapp/app/src/main/res/drawable/google_ripple.xml" value="0.121" />
+        <entry key="..\:/Android Studio/Tqapp/app/src/main/res/drawable/ic_paypal.xml" value="0.1" />
+        <entry key="..\:/Android Studio/Tqapp/app/src/main/res/drawable/input_design.xml" value="0.1375" />
+        <entry key="..\:/Android Studio/Tqapp/app/src/main/res/drawable/option_wrong.xml" value="0.199" />
+        <entry key="..\:/Android Studio/Tqapp/app/src/main/res/drawable/progress_backgrond.xml" value="0.1" />
+        <entry key="..\:/Android Studio/Tqapp/app/src/main/res/drawable/ripple.xml" value="0.121" />
+        <entry key="..\:/Android Studio/Tqapp/app/src/main/res/drawable/start_btn.xml" value="0.1375" />
+        <entry key="..\:/Android Studio/Tqapp/app/src/main/res/drawable/start_ripple.xml" value="0.1375" />
+        <entry key="..\:/Android Studio/Tqapp/app/src/main/res/layout/activity_category.xml" value="0.234375" />
         <entry key="..\:/Android Studio/Tqapp/app/src/main/res/layout/activity_login.xml" value="0.25" />
-        <entry key="..\:/Android Studio/Tqapp/app/src/main/res/layout/activity_main.xml" value="0.264" />
-        <entry key="..\:/Android Studio/Tqapp/app/src/main/res/layout/activity_quiz.xml" value="0.25" />
+        <entry key="..\:/Android Studio/Tqapp/app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="..\:/Android Studio/Tqapp/app/src/main/res/layout/activity_main2.xml" value="0.10989583333333333" />
+        <entry key="..\:/Android Studio/Tqapp/app/src/main/res/layout/activity_profile.xml" value="0.2" />
+        <entry key="..\:/Android Studio/Tqapp/app/src/main/res/layout/activity_questions.xml" value="0.234375" />
+        <entry key="..\:/Android Studio/Tqapp/app/src/main/res/layout/activity_quiz.xml" value="0.2" />
         <entry key="..\:/Android Studio/Tqapp/app/src/main/res/layout/activity_result.xml" value="0.25" />
+        <entry key="..\:/Android Studio/Tqapp/app/src/main/res/layout/activity_sets.xml" value="0.234375" />
+        <entry key="..\:/Android Studio/Tqapp/app/src/main/res/layout/activity_sign_in.xml" value="0.2" />
         <entry key="..\:/Android Studio/Tqapp/app/src/main/res/layout/activity_signup.xml" value="0.1" />
+        <entry key="..\:/Android Studio/Tqapp/app/src/main/res/layout/activity_spinner.xml" value="0.25" />
+        <entry key="..\:/Android Studio/Tqapp/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/Android Studio/Tqapp/app/src/main/res/layout/cat_item_layout.xml" value="0.10989583333333333" />
+        <entry key="..\:/Android Studio/Tqapp/app/src/main/res/layout/fragment_home.xml" value="0.264" />
         <entry key="..\:/Android Studio/Tqapp/app/src/main/res/layout/fragment_leaderboards.xml" value="0.25" />
         <entry key="..\:/Android Studio/Tqapp/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
         <entry key="..\:/Android Studio/Tqapp/app/src/main/res/layout/fragment_wallet.xml" value="0.25" />
         <entry key="..\:/Android Studio/Tqapp/app/src/main/res/layout/item_category.xml" value="0.176" />
+        <entry key="..\:/Android Studio/Tqapp/app/src/main/res/layout/loading_progress_bar.xml" value="0.536" />
+        <entry key="..\:/Android Studio/Tqapp/app/src/main/res/layout/lucky_wheel_layout.xml" value="0.25" />
         <entry key="..\:/Android Studio/Tqapp/app/src/main/res/layout/row_leaderboards.xml" value="0.25" />
+        <entry key="..\:/Android Studio/Tqapp/app/src/main/res/layout/sets_item_layout.xml" value="0.10989583333333333" />
         <entry key="..\:/Android Studio/Tqapp/app/src/main/res/menu/home_menu.xml" value="0.25" />
         <entry key="..\:/Android Studio/Tqapp/app/src/main/res/menu/menu.xml" value="0.25" />
       </map>

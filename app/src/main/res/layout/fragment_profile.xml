@@ -81,7 +81,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
         android:background="@drawable/button_3"
-        android:text="Update_profile"
+        android:text="Update Profile"
         android:textColor="@color/color_white"
         app:layout_constraintEnd_toEndOf="@+id/passBox"
         app:layout_constraintStart_toStartOf="@+id/passBox"

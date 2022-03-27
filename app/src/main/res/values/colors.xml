@@ -16,5 +16,11 @@
     <color name="colorPurple">#732DEF</color>
     <color name="light_grey">#DACEED</color>
 
+    <color name="colorPrimary">#373753</color>
+    <color name="colorPrimaryDark">#373753</color>
+    <color name="colorAccent">#0585EE</color>
+
+    <color name="background">#252A37</color>
+
 
 </resources>
